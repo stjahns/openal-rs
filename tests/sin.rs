@@ -1,4 +1,6 @@
 #![feature(std_misc)]
+#![feature(core)]
+#![feature(old_io)]
 
 extern crate openal;
 
